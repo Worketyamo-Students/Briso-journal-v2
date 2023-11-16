@@ -19,7 +19,7 @@ plus tôt possible. Le journal vous demande également d'inclure : </p>
 
 <h3> Questions </h3>
     <ol>
-       <li> Quel est l’outil qui vous permettra de versionner votre code <li>
+       <li> Quel est l’outil qui vous permettra de versionner votre code </li>
         <b> Reponse:</b> </br>
         L'outil GIt nous permettra de versionner votre code.
         <li> Quel est l’outil qui vous permettra de collaborer avec le second développeur </li>
@@ -27,9 +27,9 @@ plus tôt possible. Le journal vous demande également d'inclure : </p>
         L'outil Github vous permettra de collaborer avec le second développeur
         <li> Définir les termes suivant : VCS , GIT , GITHUB </li>
         <b> Reponse:</b> </br>
-        VCS (Version Control System) : Un système de contrôle de version est un outil utilisé par les développeurs pour enregistrer et gérer les modifications apportées au code source d'un projet logiciel. <br>
-        Git : Git est un système de contrôle de version distribué très populaire. C'est un logiciel qui permet aux développeurs de gérer et de suivre les modifications apportées à leur code source. 
-        GitHub : GitHub est une plateforme d'hébergement de code basée sur Git. C'est un service en ligne qui permet aux développeurs de stocker leurs dépôts Git et de collaborer sur des projets logiciels.
+        <b> VCS (Version Control System) </b>: Un système de contrôle de version est un outil utilisé par les développeurs pour enregistrer et gérer les modifications apportées au code source d'un projet logiciel. </br>
+        <b> Git </b>: Git est un système de contrôle de version distribué très populaire qui permet aux développeurs de gérer et de suivre les modifications apportées à leur code source. </br>
+        <b> GitHub </b>: GitHub est une plateforme d'hébergement de code basée sur Git qui permet aux développeurs de stocker leurs dépôts Git et de collaborer sur des projets logiciels.
         <li> Quelle est la difference entre Git et Github </li> 
         <b> Reponse:</b> </br>
         Git est l'outil de contrôle de version lui-même, qui fonctionne localement sur l'ordinateur du développeur, tandis que GitHub est une plateforme en ligne qui utilise Git pour héberger et faciliter la collaboration sur des projets logiciels.
@@ -49,12 +49,12 @@ plus tôt possible. Le journal vous demande également d'inclure : </p>
        <b> Reponse:</b> </br>
        En SSH (Secure Shell), il existe deux types de clés utilisées pour établir une connexion sécurisée :
        <ul> 
-       <li>la clé privées et </li> 
-       <li>la clé publiques.  </li>
+       <li>la clé privée et </li> 
+       <li>la clé publique.  </li>
        </ul>
        <li> Expliquer le processus de connexion à Github en utilisant le SSH </li>
        <b> Reponse:</b> </br>
-       <b>Génération des clés SSH </b>: Tout d'abord, vous devez générer une paire de clés SSH sur votre ordinateur local. Cela se fait généralement à l'aide de la commande ssh-keygen dans votre terminal. La commande générera une clé privée et une clé publique.
+       <b>Génération des clés SSH </b>: Tout d'abord, vous devez générer une paire de clés SSH sur votre ordinateur local. Cela se fait généralement à l'aide de la commande ssh-keygen dans votre terminal. La commande générera une clé privée et une clé publique. </br>
        <b>Ajout de la clé publique à votre compte GitHub </b>: Une fois que vous avez généré vos clés SSH, vous devez ajouter la clé publique à votre compte GitHub. Pour cela, accédez aux paramètres de votre compte GitHub, puis à la section "Clés SSH". Cliquez sur "Ajouter une clé SSH" et collez votre clé publique dans le champ prévu à cet effet.
       <li> Quelle est la difference entre le Local repository et le Remote repository </li>
       <b> Reponse:</b> </br>
@@ -74,3 +74,5 @@ plus tôt possible. Le journal vous demande également d'inclure : </p>
 </body>
 
 </html>
+
+# Markdown
